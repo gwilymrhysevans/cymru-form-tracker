@@ -36,16 +36,6 @@ Josh Sheehan,2026-09-20,Norwich City,away,90.0,6.9,played,0.0,0.0
 Josh Sheehan,2026-09-12,Cardiff City,home,90.0,7.42,played,0.0,0.0
 Josh Sheehan,2026-09-08,West Ham United,home,90.0,6.95,played,0.0,0.0
 Josh Sheehan,2026-09-05,Millwall,away,86.0,6.12,played,0.0,0.0
-Ryan Astley,2026-10-28,Kilmarnock,home,90.0,8.21,played,0.0,0.0
-Ryan Astley,2026-10-24,St. Mirren,away,90.0,6.9,played,0.0,0.0
-Ryan Astley,2026-10-17,Rangers,home,90.0,7.36,played,0.0,0.0
-Ryan Astley,2026-10-10,Falkirk,away,90.0,7.87,played,0.0,0.0
-Ryan Astley,2026-09-19,Motherwell,home,90.0,8.09,played,0.0,1.0
-Ryan Astley,2026-09-06,Heart of Midlothian,away,90.0,7.04,played,0.0,0.0
-Ryan Astley,2026-09-02,St. Johnstone,home,90.0,6.89,played,0.0,0.0
-Ryan Astley,2026-08-30,Hibernian,home,90.0,6.64,played,0.0,0.0
-Ryan Astley,2026-08-22,Dundee United,away,90.0,8.06,played,0.0,0.0
-Ryan Astley,2026-08-08,Aberdeen,home,90.0,7.0,played,0.0,0.0
 Ashley Phillips,2026-11-04,Wrexham,away,90.0,6.13,played,0.0,0.0
 Ashley Phillips,2026-10-31,Charlton Athletic,home,90.0,7.74,played,0.0,0.0
 Ashley Phillips,2026-10-23,Bolton Wanderers,away,90.0,6.78,played,0.0,0.0
@@ -86,16 +76,16 @@ Aaron Collins,2026-09-17,AFC Wimbledon,away,79.0,6.44,played,0.0,0.0
 Aaron Collins,2026-09-12,Peterborough United,home,74.0,7.78,played,1.0,0.0
 Aaron Collins,2026-09-05,Wycombe Wanderers,away,73.0,8.19,played,1.0,1.0
 Aaron Collins,2026-09-02,Wigan Athletic,away,26.0,7.65,played,1.0,0.0
-Owen Bevan,2026-10-28,Kilmarnock,home,0,,not_selected,,
-Owen Bevan,2026-10-24,St. Mirren,away,90.0,7.44,played,0.0,0.0
-Owen Bevan,2026-10-17,Rangers,home,90.0,6.32,played,0.0,0.0
-Owen Bevan,2026-10-10,Falkirk,away,90.0,8.32,played,1.0,0.0
-Owen Bevan,2026-09-19,Motherwell,home,90.0,6.86,played,0.0,0.0
-Owen Bevan,2026-09-06,Heart of Midlothian,away,90.0,6.78,played,0.0,0.0
-Owen Bevan,2026-09-02,St. Johnstone,home,90.0,6.8,played,0.0,0.0
-Owen Bevan,2026-08-30,Hibernian,home,90.0,6.72,played,0.0,0.0
-Owen Bevan,2026-08-22,Dundee United,away,90.0,8.1,played,1.0,0.0
-Owen Bevan,2026-08-08,Aberdeen,home,90.0,7.95,played,0.0,0.0
+Ryan Astley,2026-10-28,Kilmarnock,home,90.0,8.21,played,0.0,0.0
+Ryan Astley,2026-10-24,St. Mirren,away,90.0,6.9,played,0.0,0.0
+Ryan Astley,2026-10-17,Rangers,home,90.0,7.36,played,0.0,0.0
+Ryan Astley,2026-10-10,Falkirk,away,90.0,7.87,played,0.0,0.0
+Ryan Astley,2026-09-19,Motherwell,home,90.0,8.09,played,0.0,1.0
+Ryan Astley,2026-09-06,Heart of Midlothian,away,90.0,7.04,played,0.0,0.0
+Ryan Astley,2026-09-02,St. Johnstone,home,90.0,6.89,played,0.0,0.0
+Ryan Astley,2026-08-30,Hibernian,home,90.0,6.64,played,0.0,0.0
+Ryan Astley,2026-08-22,Dundee United,away,90.0,8.06,played,0.0,0.0
+Ryan Astley,2026-08-08,Aberdeen,home,90.0,7.0,played,0.0,0.0
 Chris Mepham,2026-11-03,Southampton,home,90.0,7.77,played,0.0,0.0
 Chris Mepham,2026-10-31,West Ham United,away,90.0,6.89,played,0.0,0.0
 Chris Mepham,2026-10-24,Preston North End,away,90.0,6.67,played,0.0,0.0
@@ -126,16 +116,6 @@ Joel Colwill,2026-09-19,Charlton Athletic,home,90.0,7.8,played,0.0,0.0
 Joel Colwill,2026-09-12,Bolton Wanderers,away,59.0,6.0,played,0.0,0.0
 Joel Colwill,2026-09-08,Stoke City,home,90.0,8.03,played,1.0,0.0
 Joel Colwill,2026-09-05,Portsmouth,away,27.0,5.82,played,0.0,0.0
-Tom Lowery,2026-10-31,St. Johnstone,home,90.0,7.5,played,0.0,0.0
-Tom Lowery,2026-10-28,Dundee FC,away,90.0,6.98,played,0.0,0.0
-Tom Lowery,2026-10-24,Falkirk,away,90.0,6.35,played,0.0,0.0
-Tom Lowery,2026-10-17,Motherwell,home,90.0,6.57,played,0.0,0.0
-Tom Lowery,2026-10-10,Rangers,away,90.0,6.35,played,0.0,0.0
-Tom Lowery,2026-09-19,Heart of Midlothian,home,82.0,6.29,played,0.0,0.0
-Tom Lowery,2026-09-15,Hibernian,away,90.0,6.51,played,0.0,0.0
-Tom Lowery,2026-09-05,Aberdeen,away,90.0,6.8,played,0.0,0.0
-Tom Lowery,2026-09-02,St. Mirren,home,78.0,6.66,played,0.0,0.0
-Tom Lowery,2026-08-29,Dundee United,home,90.0,5.93,played,0.0,0.0
 Brennan Johnson,2026-11-02,Newcastle United,away,10.0,6.03,played,0.0,0.0
 Brennan Johnson,2026-10-24,Arsenal,away,72.0,5.92,played,0.0,0.0
 Brennan Johnson,2026-10-17,Chelsea,home,5.0,,played,0.0,0.0
@@ -155,16 +135,16 @@ Cameron Congreve,2026-08-30,Zulte Waregem,home,87.0,7.11,played,0.0,0.0
 Cameron Congreve,2026-08-23,Lommel,away,90.0,7.0,played,0.0,0.0
 Cameron Congreve,2026-08-15,Genk,away,66.0,7.84,played,0.0,1.0
 Cameron Congreve,2026-08-08,Union St.Gilloise,home,0,,not_selected,,
-Tom Sparrow,2026-10-31,St. Mirren,home,90.0,7.45,played,0.0,0.0
-Tom Sparrow,2026-10-28,St. Johnstone,away,90.0,6.53,played,0.0,0.0
-Tom Sparrow,2026-10-25,Heart of Midlothian,home,82.0,6.54,played,0.0,0.0
-Tom Sparrow,2026-10-17,Kilmarnock,away,81.0,6.45,played,0.0,0.0
-Tom Sparrow,2026-10-11,Celtic,home,90.0,6.44,played,0.0,0.0
-Tom Sparrow,2026-09-19,Dundee FC,away,90.0,7.81,played,0.0,1.0
-Tom Sparrow,2026-09-15,Aberdeen,home,90.0,6.22,played,0.0,0.0
-Tom Sparrow,2026-09-05,Rangers,away,90.0,5.95,played,0.0,0.0
-Tom Sparrow,2026-09-02,Dundee United,home,68.0,7.97,played,0.0,1.0
-Tom Sparrow,2026-08-30,St. Mirren,away,45.0,5.96,played,0.0,0.0
+Owen Bevan,2026-10-28,Kilmarnock,home,0,,not_selected,,
+Owen Bevan,2026-10-24,St. Mirren,away,90.0,7.44,played,0.0,0.0
+Owen Bevan,2026-10-17,Rangers,home,90.0,6.32,played,0.0,0.0
+Owen Bevan,2026-10-10,Falkirk,away,90.0,8.32,played,1.0,0.0
+Owen Bevan,2026-09-19,Motherwell,home,90.0,6.86,played,0.0,0.0
+Owen Bevan,2026-09-06,Heart of Midlothian,away,90.0,6.78,played,0.0,0.0
+Owen Bevan,2026-09-02,St. Johnstone,home,90.0,6.8,played,0.0,0.0
+Owen Bevan,2026-08-30,Hibernian,home,90.0,6.72,played,0.0,0.0
+Owen Bevan,2026-08-22,Dundee United,away,90.0,8.1,played,1.0,0.0
+Owen Bevan,2026-08-08,Aberdeen,home,90.0,7.95,played,0.0,0.0
 Mark Harris,2026-11-04,Reading,home,79.0,7.06,played,0.0,0.0
 Mark Harris,2026-10-31,Barnsley,away,90.0,7.72,played,1.0,0.0
 Mark Harris,2026-10-27,Stockport County,home,90.0,8.29,played,1.0,0.0
@@ -213,16 +193,6 @@ Joe Taylor,2026-10-03,Burton Albion,away,0,,not_selected,,
 Joe Taylor,2026-09-19,Bromley,away,90.0,6.43,played,0.0,0.0
 Joe Taylor,2026-09-12,Mansfield Town,away,90.0,6.09,played,0.0,0.0
 Joe Taylor,2026-09-05,Notts County,home,90.0,6.39,played,0.0,0.0
-Declan John,2026-10-31,Motherwell,away,18.0,6.19,played,0.0,0.0
-Declan John,2026-10-28,Hibernian,home,90.0,6.35,played,0.0,0.0
-Declan John,2026-10-24,Dundee FC,home,90.0,7.81,played,0.0,0.0
-Declan John,2026-10-17,Aberdeen,away,90.0,6.3,played,0.0,0.0
-Declan John,2026-10-10,Heart of Midlothian,away,90.0,5.84,played,0.0,0.0
-Declan John,2026-09-19,Dundee United,home,90.0,5.74,played,0.0,0.0
-Declan John,2026-09-09,Rangers,away,89.0,6.81,played,0.0,0.0
-Declan John,2026-09-05,Celtic,home,90,6.33,estimated_minutes,0.0,0.0
-Declan John,2026-09-02,Kilmarnock,away,90.0,6.85,played,0.0,0.0
-Declan John,2026-08-30,Motherwell,home,90.0,6.97,played,1.0,0.0
 Ryan Hedges,2026-11-03,Norwich City,home,0,,not_selected,,
 Ryan Hedges,2026-10-31,Millwall,away,90.0,6.43,played,0.0,0.0
 Ryan Hedges,2026-10-24,Sheffield United,away,90.0,7.3,played,0.0,0.0
@@ -252,6 +222,16 @@ Kai Andrews,2026-10-10,Notts County,away,32.0,6.53,played,0.0,0.0
 Kai Andrews,2026-09-19,Cambridge United,home,58.0,6.9,played,0.0,0.0
 Kai Andrews,2026-09-12,Burton Albion,home,74.0,6.55,played,0.0,0.0
 Kai Andrews,2026-09-05,Leicester City,away,90.0,8.8,played,0.0,2.0
+Tom Lowery,2026-10-31,St. Johnstone,home,90.0,7.5,played,0.0,0.0
+Tom Lowery,2026-10-28,Dundee FC,away,90.0,6.98,played,0.0,0.0
+Tom Lowery,2026-10-24,Falkirk,away,90.0,6.35,played,0.0,0.0
+Tom Lowery,2026-10-17,Motherwell,home,90.0,6.57,played,0.0,0.0
+Tom Lowery,2026-10-10,Rangers,away,90.0,6.35,played,0.0,0.0
+Tom Lowery,2026-09-19,Heart of Midlothian,home,82.0,6.29,played,0.0,0.0
+Tom Lowery,2026-09-15,Hibernian,away,90.0,6.51,played,0.0,0.0
+Tom Lowery,2026-09-05,Aberdeen,away,90.0,6.8,played,0.0,0.0
+Tom Lowery,2026-09-02,St. Mirren,home,78.0,6.66,played,0.0,0.0
+Tom Lowery,2026-08-29,Dundee United,home,90.0,5.93,played,0.0,0.0
 Will Vaulks,2026-10-31,Cheltenham Town,home,90.0,8.15,played,0.0,0.0
 Will Vaulks,2026-10-24,Crawley Town,away,90.0,8.13,played,1.0,0.0
 Will Vaulks,2026-10-20,Northampton Town,away,90.0,8.02,played,0.0,1.0
@@ -272,6 +252,26 @@ Andrew Hughes,2026-09-19,Queens Park Rangers,away,90.0,6.8,played,0.0,0.0
 Andrew Hughes,2026-09-12,Lincoln City,home,12.0,6.32,played,0.0,0.0
 Andrew Hughes,2026-09-08,Watford,away,0,,not_selected,,
 Andrew Hughes,2026-09-05,Blackburn Rovers,home,0,,not_selected,,
+Tom Sparrow,2026-10-31,St. Mirren,home,90.0,7.45,played,0.0,0.0
+Tom Sparrow,2026-10-28,St. Johnstone,away,90.0,6.53,played,0.0,0.0
+Tom Sparrow,2026-10-25,Heart of Midlothian,home,82.0,6.54,played,0.0,0.0
+Tom Sparrow,2026-10-17,Kilmarnock,away,81.0,6.45,played,0.0,0.0
+Tom Sparrow,2026-10-11,Celtic,home,90.0,6.44,played,0.0,0.0
+Tom Sparrow,2026-09-19,Dundee FC,away,90.0,7.81,played,0.0,1.0
+Tom Sparrow,2026-09-15,Aberdeen,home,90.0,6.22,played,0.0,0.0
+Tom Sparrow,2026-09-05,Rangers,away,90.0,5.95,played,0.0,0.0
+Tom Sparrow,2026-09-02,Dundee United,home,68.0,7.97,played,0.0,1.0
+Tom Sparrow,2026-08-30,St. Mirren,away,45.0,5.96,played,0.0,0.0
+Declan John,2026-10-31,Motherwell,away,18.0,6.19,played,0.0,0.0
+Declan John,2026-10-28,Hibernian,home,90.0,6.35,played,0.0,0.0
+Declan John,2026-10-24,Dundee FC,home,90.0,7.81,played,0.0,0.0
+Declan John,2026-10-17,Aberdeen,away,90.0,6.3,played,0.0,0.0
+Declan John,2026-10-10,Heart of Midlothian,away,90.0,5.84,played,0.0,0.0
+Declan John,2026-09-19,Dundee United,home,90.0,5.74,played,0.0,0.0
+Declan John,2026-09-09,Rangers,away,89.0,6.81,played,0.0,0.0
+Declan John,2026-09-05,Celtic,home,90,6.33,estimated_minutes,0.0,0.0
+Declan John,2026-09-02,Kilmarnock,away,90.0,6.85,played,0.0,0.0
+Declan John,2026-08-30,Motherwell,home,90.0,6.97,played,1.0,0.0
 Lee Jenkins,2026-10-30,Chesterfield,home,90.0,7.49,played,0.0,0.0
 Lee Jenkins,2026-10-24,Cheltenham Town,away,90.0,6.51,played,0.0,0.0
 Lee Jenkins,2026-10-20,Rotherham United,away,90.0,7.3,played,0.0,0.0
@@ -314,16 +314,6 @@ Cian Ashford,2026-09-05,Portsmouth,away,7.0,,played,0.0,0.0
 Tom Lawrence,2026-11-01,Adelaide United,home,76.0,6.86,played,0.0,0.0
 Tom Lawrence,2026-10-23,Brisbane Roar FC,away,80.0,6.59,played,0.0,0.0
 Tom Lawrence,2026-10-17,Macarthur FC,away,63.0,7.56,played,1.0,0.0
-Joel Cotterill,2026-10-31,Kilmarnock,away,90.0,7.62,played,1.0,0.0
-Joel Cotterill,2026-10-28,Motherwell,home,23.0,6.14,played,0.0,0.0
-Joel Cotterill,2026-10-24,Rangers,away,90.0,6.52,played,0.0,0.0
-Joel Cotterill,2026-10-17,Dundee United,home,90.0,7.13,played,0.0,0.0
-Joel Cotterill,2026-10-11,Aberdeen,away,32.0,6.34,played,0.0,0.0
-Joel Cotterill,2026-09-19,Falkirk,home,90.0,6.4,played,0.0,0.0
-Joel Cotterill,2026-09-09,Celtic,home,87.0,6.5,played,0.0,0.0
-Joel Cotterill,2026-09-06,Hibernian,home,33.0,7.04,played,0.0,0.0
-Joel Cotterill,2026-09-02,Dundee FC,away,0,,not_selected,,
-Joel Cotterill,2026-08-29,Heart of Midlothian,away,0,,not_selected,,
 Louis Thompson,2026-10-31,Leicester City,away,79.0,7.13,played,0.0,0.0
 Louis Thompson,2026-10-24,Milton Keynes Dons,home,90.0,7.1,played,0.0,0.0
 Louis Thompson,2026-10-20,Plymouth Argyle,home,74.0,6.97,played,0.0,0.0
@@ -383,16 +373,6 @@ Ryan Stirk,2026-09-26,Cheltenham Town,away,90.0,7.27,played,0.0,0.0
 Ryan Stirk,2026-09-19,York City,home,90.0,7.57,played,0.0,0.0
 Ryan Stirk,2026-09-12,Oldham Athletic,away,61.0,6.73,played,0.0,0.0
 Ryan Stirk,2026-09-05,Barnet,home,90.0,7.28,played,0.0,0.0
-Callum Jones,2026-10-28,Kilmarnock,home,78.0,7.0,played,0.0,0.0
-Callum Jones,2026-10-24,St. Mirren,away,69.0,6.36,played,0.0,0.0
-Callum Jones,2026-10-17,Rangers,home,90.0,8.45,played,1.0,0.0
-Callum Jones,2026-10-10,Falkirk,away,90.0,6.97,played,0.0,0.0
-Callum Jones,2026-09-19,Motherwell,home,71.0,6.93,played,0.0,0.0
-Callum Jones,2026-09-06,Heart of Midlothian,away,0,,not_selected,,
-Callum Jones,2026-09-02,St. Johnstone,home,0,,unused_substitute,,
-Callum Jones,2026-08-30,Hibernian,home,0,,unused_substitute,,
-Callum Jones,2026-08-22,Dundee United,away,0,,unused_substitute,,
-Callum Jones,2026-08-08,Aberdeen,home,0,,not_selected,,
 Joe Low,2026-11-03,Luton Town,home,0,,unused_substitute,,
 Joe Low,2026-10-31,Bradford City,away,90.0,8.32,played,1.0,0.0
 Joe Low,2026-10-24,Wigan Athletic,home,90.0,7.77,played,0.0,0.0
@@ -423,6 +403,16 @@ Elliot Hewitt,2026-09-19,Burton Albion,away,45.0,5.73,played,0.0,0.0
 Elliot Hewitt,2026-09-12,Huddersfield Town,home,74.0,7.73,played,0.0,0.0
 Elliot Hewitt,2026-09-05,Bradford City,away,26.0,6.54,played,0.0,0.0
 Elliot Hewitt,2026-09-02,Reading,away,90.0,5.12,played,0.0,0.0
+Joel Cotterill,2026-10-31,Kilmarnock,away,90.0,7.62,played,1.0,0.0
+Joel Cotterill,2026-10-28,Motherwell,home,23.0,6.14,played,0.0,0.0
+Joel Cotterill,2026-10-24,Rangers,away,90.0,6.52,played,0.0,0.0
+Joel Cotterill,2026-10-17,Dundee United,home,90.0,7.13,played,0.0,0.0
+Joel Cotterill,2026-10-11,Aberdeen,away,32.0,6.34,played,0.0,0.0
+Joel Cotterill,2026-09-19,Falkirk,home,90.0,6.4,played,0.0,0.0
+Joel Cotterill,2026-09-09,Celtic,home,87.0,6.5,played,0.0,0.0
+Joel Cotterill,2026-09-06,Hibernian,home,33.0,7.04,played,0.0,0.0
+Joel Cotterill,2026-09-02,Dundee FC,away,0,,not_selected,,
+Joel Cotterill,2026-08-29,Heart of Midlothian,away,0,,not_selected,,
 Jordan James,2026-11-04,Bristol City,away,0,,not_selected,,
 Jordan James,2026-10-31,Cardiff City,home,36.0,6.38,played,0.0,0.0
 Jordan James,2026-10-24,Watford,home,78.0,6.99,played,0.0,0.0
@@ -481,6 +471,16 @@ Dan James,2026-09-14,Newcastle United,home,7.0,,played,0.0,0.0
 Dan James,2026-09-05,Brighton & Hove Albion,away,0,,unused_substitute,,
 Dan James,2026-08-30,Brentford,home,22.0,6.19,played,0.0,0.0
 Dan James,2026-08-22,Nottingham Forest,away,0,,unused_substitute,,
+Callum Jones,2026-10-28,Kilmarnock,home,78.0,7.0,played,0.0,0.0
+Callum Jones,2026-10-24,St. Mirren,away,69.0,6.36,played,0.0,0.0
+Callum Jones,2026-10-17,Rangers,home,90.0,8.45,played,1.0,0.0
+Callum Jones,2026-10-10,Falkirk,away,90.0,6.97,played,0.0,0.0
+Callum Jones,2026-09-19,Motherwell,home,71.0,6.93,played,0.0,0.0
+Callum Jones,2026-09-06,Heart of Midlothian,away,0,,not_selected,,
+Callum Jones,2026-09-02,St. Johnstone,home,0,,unused_substitute,,
+Callum Jones,2026-08-30,Hibernian,home,0,,unused_substitute,,
+Callum Jones,2026-08-22,Dundee United,away,0,,unused_substitute,,
+Callum Jones,2026-08-08,Aberdeen,home,0,,not_selected,,
 Harry Ashfield,2026-10-31,Luton Town,home,45.0,6.43,played,0.0,0.0
 Harry Ashfield,2026-10-24,Bromley,away,90.0,7.5,played,0.0,0.0
 Harry Ashfield,2026-10-20,Huddersfield Town,away,29.0,6.56,played,0.0,0.0
@@ -582,16 +582,6 @@ Ched Evans,2026-09-26,Rochdale,home,90.0,6.76,played,0.0,0.0
 Ched Evans,2026-09-19,Barnet,away,27.0,6.09,played,0.0,0.0
 Ched Evans,2026-09-12,Newport County,away,63.0,5.95,played,0.0,0.0
 Ched Evans,2026-09-05,Shrewsbury Town,home,33.0,6.99,played,0.0,1.0
-Dylan Levitt,2026-10-31,St. Mirren,home,0,,unused_substitute,,
-Dylan Levitt,2026-10-28,St. Johnstone,away,45.0,6.44,played,0.0,0.0
-Dylan Levitt,2026-10-25,Heart of Midlothian,home,90.0,6.64,played,0.0,0.0
-Dylan Levitt,2026-10-17,Kilmarnock,away,15.0,6.12,played,0.0,0.0
-Dylan Levitt,2026-10-11,Celtic,home,71.0,5.86,played,0.0,0.0
-Dylan Levitt,2026-09-19,Dundee FC,away,0,,unused_substitute,,
-Dylan Levitt,2026-09-15,Aberdeen,home,22.0,6.12,played,0.0,0.0
-Dylan Levitt,2026-09-05,Rangers,away,17.0,6.1,played,0.0,0.0
-Dylan Levitt,2026-09-02,Dundee United,home,31.0,7.55,played,1.0,0.0
-Dylan Levitt,2026-08-30,St. Mirren,away,0,,not_selected,,
 Jonathan Bland,2026-10-31,Oxford United,home,0,,not_selected,,
 Jonathan Bland,2026-10-24,Reading,away,2.0,,played,0.0,0.0
 Jonathan Bland,2026-10-20,Luton Town,away,7.0,,played,0.0,0.0
@@ -652,16 +642,16 @@ Ellis Harrison,2026-09-26,Exeter City,home,79.0,7.29,played,0.0,0.0
 Ellis Harrison,2026-09-19,Gillingham,away,80.0,6.23,played,0.0,0.0
 Ellis Harrison,2026-09-12,Grimsby Town,away,45.0,6.14,played,0.0,0.0
 Ellis Harrison,2026-09-05,Rotherham United,home,45.0,6.78,played,0.0,0.0
-Joe Wright,2026-10-28,Kilmarnock,home,66.0,7.47,played,0.0,0.0
-Joe Wright,2026-10-24,St. Mirren,away,0,,unused_substitute,,
-Joe Wright,2026-10-17,Rangers,home,0,,unused_substitute,,
-Joe Wright,2026-10-10,Falkirk,away,0,,unused_substitute,,
-Joe Wright,2026-09-19,Motherwell,home,0,,not_selected,,
-Joe Wright,2026-09-06,Heart of Midlothian,away,25.0,6.35,played,0.0,0.0
-Joe Wright,2026-09-02,St. Johnstone,home,0,,unused_substitute,,
-Joe Wright,2026-08-30,Hibernian,home,0,,not_selected,,
-Joe Wright,2026-08-22,Dundee United,away,0,,not_selected,,
-Joe Wright,2026-08-08,Aberdeen,home,0,,not_selected,,
+Dylan Levitt,2026-10-31,St. Mirren,home,0,,unused_substitute,,
+Dylan Levitt,2026-10-28,St. Johnstone,away,45.0,6.44,played,0.0,0.0
+Dylan Levitt,2026-10-25,Heart of Midlothian,home,90.0,6.64,played,0.0,0.0
+Dylan Levitt,2026-10-17,Kilmarnock,away,15.0,6.12,played,0.0,0.0
+Dylan Levitt,2026-10-11,Celtic,home,71.0,5.86,played,0.0,0.0
+Dylan Levitt,2026-09-19,Dundee FC,away,0,,unused_substitute,,
+Dylan Levitt,2026-09-15,Aberdeen,home,22.0,6.12,played,0.0,0.0
+Dylan Levitt,2026-09-05,Rangers,away,17.0,6.1,played,0.0,0.0
+Dylan Levitt,2026-09-02,Dundee United,home,31.0,7.55,played,1.0,0.0
+Dylan Levitt,2026-08-30,St. Mirren,away,0,,not_selected,,
 Dylan Lawlor,2026-11-04,West Ham United,home,0,,not_selected,,
 Dylan Lawlor,2026-10-31,Wolverhampton Wanderers,away,0,,not_selected,,
 Dylan Lawlor,2026-10-24,Birmingham City,home,0,,not_selected,,
@@ -732,6 +722,16 @@ Calum Agius,2026-09-26,Rotherham United,away,0,,not_selected,,
 Calum Agius,2026-09-19,Shrewsbury Town,home,4.0,,played,0.0,0.0
 Calum Agius,2026-09-12,Colchester United,away,69.0,6.25,played,0.0,0.0
 Calum Agius,2026-09-05,York City,home,90.0,7.71,played,0.0,1.0
+Joe Wright,2026-10-28,Kilmarnock,home,66.0,7.47,played,0.0,0.0
+Joe Wright,2026-10-24,St. Mirren,away,0,,unused_substitute,,
+Joe Wright,2026-10-17,Rangers,home,0,,unused_substitute,,
+Joe Wright,2026-10-10,Falkirk,away,0,,unused_substitute,,
+Joe Wright,2026-09-19,Motherwell,home,0,,not_selected,,
+Joe Wright,2026-09-06,Heart of Midlothian,away,25.0,6.35,played,0.0,0.0
+Joe Wright,2026-09-02,St. Johnstone,home,0,,unused_substitute,,
+Joe Wright,2026-08-30,Hibernian,home,0,,not_selected,,
+Joe Wright,2026-08-22,Dundee United,away,0,,not_selected,,
+Joe Wright,2026-08-08,Aberdeen,home,0,,not_selected,,
 Charlie Caton,2026-10-31,Northampton Town,home,0,,not_selected,,
 Charlie Caton,2026-10-24,Rochdale,away,0,,not_selected,,
 Charlie Caton,2026-10-20,York City,away,0,,not_selected,,
@@ -832,16 +832,6 @@ David Harrington,2026-09-26,Newport County,away,0,,not_selected,,
 David Harrington,2026-09-19,Crawley Town,home,0,,not_selected,,
 David Harrington,2026-09-12,Bristol Rovers,home,90.0,7.84,played,,
 David Harrington,2026-09-05,Cheltenham Town,away,90.0,6.44,played,,
-Rabbi Matondo,2026-10-28,St. Mirren,away,11.0,6.11,played,0.0,0.0
-Rabbi Matondo,2026-10-25,Celtic,home,22.0,6.01,played,0.0,0.0
-Rabbi Matondo,2026-10-17,Falkirk,home,30.0,6.47,played,0.0,0.0
-Rabbi Matondo,2026-10-10,Dundee United,away,36.0,6.05,played,0.0,0.0
-Rabbi Matondo,2026-09-19,Aberdeen,home,0,,not_selected,,
-Rabbi Matondo,2026-09-15,Kilmarnock,home,0,,not_selected,,
-Rabbi Matondo,2026-09-06,St. Johnstone,away,0,,not_selected,,
-Rabbi Matondo,2026-09-03,Heart of Midlothian,home,0,,not_selected,,
-Rabbi Matondo,2026-08-30,Dundee FC,away,0,,not_selected,,
-Rabbi Matondo,2026-08-09,Rangers,away,0,,not_selected,,
 Joe Lewis,2026-10-31,Wycombe Wanderers,away,8.0,,played,0.0,0.0
 Joe Lewis,2026-10-24,Leyton Orient,home,0,,unused_substitute,,
 Joe Lewis,2026-10-20,Bradford City,home,0,,not_selected,,
@@ -872,16 +862,16 @@ Harry Clifton,2026-09-19,Peterborough United,away,0,,not_selected,,
 Harry Clifton,2026-09-12,AFC Wimbledon,away,0,,not_selected,,
 Harry Clifton,2026-09-05,Plymouth Argyle,home,11.0,5.82,played,0.0,0.0
 Harry Clifton,2026-09-01,Notts County,home,13.0,6.37,played,0.0,0.0
-Ieuan Owen,2026-10-31,St. Johnstone,home,0,,unused_substitute,,
-Ieuan Owen,2026-10-28,Dundee FC,away,14.0,5.89,played,0.0,0.0
-Ieuan Owen,2026-10-24,Falkirk,away,28.0,6.03,played,0.0,0.0
-Ieuan Owen,2026-10-17,Motherwell,home,13.0,6.29,played,0.0,0.0
-Ieuan Owen,2026-10-10,Rangers,away,0,,unused_substitute,,
-Ieuan Owen,2026-09-19,Heart of Midlothian,home,0,,unused_substitute,,
-Ieuan Owen,2026-09-15,Hibernian,away,0,,unused_substitute,,
-Ieuan Owen,2026-09-05,Aberdeen,away,0,,unused_substitute,,
-Ieuan Owen,2026-09-02,St. Mirren,home,0,,unused_substitute,,
-Ieuan Owen,2026-08-29,Dundee United,home,0,,not_selected,,
+Rabbi Matondo,2026-10-28,St. Mirren,away,11.0,6.11,played,0.0,0.0
+Rabbi Matondo,2026-10-25,Celtic,home,22.0,6.01,played,0.0,0.0
+Rabbi Matondo,2026-10-17,Falkirk,home,30.0,6.47,played,0.0,0.0
+Rabbi Matondo,2026-10-10,Dundee United,away,36.0,6.05,played,0.0,0.0
+Rabbi Matondo,2026-09-19,Aberdeen,home,0,,not_selected,,
+Rabbi Matondo,2026-09-15,Kilmarnock,home,0,,not_selected,,
+Rabbi Matondo,2026-09-06,St. Johnstone,away,0,,not_selected,,
+Rabbi Matondo,2026-09-03,Heart of Midlothian,home,0,,not_selected,,
+Rabbi Matondo,2026-08-30,Dundee FC,away,0,,not_selected,,
+Rabbi Matondo,2026-08-09,Rangers,away,0,,not_selected,,
 Tanatswa Nyakuhwa,2026-10-30,Chesterfield,home,0,,not_selected,,
 Tanatswa Nyakuhwa,2026-10-24,Cheltenham Town,away,0,,not_selected,,
 Tanatswa Nyakuhwa,2026-10-20,Rotherham United,away,0,,not_selected,,
@@ -912,6 +902,16 @@ Charlie Savage,2026-10-03,Bradford City,home,0,,not_selected,,
 Charlie Savage,2026-09-26,Wycombe Wanderers,away,0,,not_selected,,
 Charlie Savage,2026-09-19,Notts County,home,1.0,,played,0.0,0.0
 Charlie Savage,2026-09-12,Cambridge United,away,12.0,6.21,played,0.0,0.0
+Ieuan Owen,2026-10-31,St. Johnstone,home,0,,unused_substitute,,
+Ieuan Owen,2026-10-28,Dundee FC,away,14.0,5.89,played,0.0,0.0
+Ieuan Owen,2026-10-24,Falkirk,away,28.0,6.03,played,0.0,0.0
+Ieuan Owen,2026-10-17,Motherwell,home,13.0,6.29,played,0.0,0.0
+Ieuan Owen,2026-10-10,Rangers,away,0,,unused_substitute,,
+Ieuan Owen,2026-09-19,Heart of Midlothian,home,0,,unused_substitute,,
+Ieuan Owen,2026-09-15,Hibernian,away,0,,unused_substitute,,
+Ieuan Owen,2026-09-05,Aberdeen,away,0,,unused_substitute,,
+Ieuan Owen,2026-09-02,St. Mirren,home,0,,unused_substitute,,
+Ieuan Owen,2026-08-29,Dundee United,home,0,,not_selected,,
 Chem Campbell,2026-10-31,Leicester City,away,22.0,6.1,played,0.0,0.0
 Chem Campbell,2026-10-24,Milton Keynes Dons,home,1.0,,played,0.0,0.0
 Chem Campbell,2026-10-20,Plymouth Argyle,home,0,,unused_substitute,,
